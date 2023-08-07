@@ -1,4 +1,4 @@
-##Recipe API
+recipe API
 Description
 The Recipe API is a simple web service that provides endpoints to access recipes and their details. It is built using HTML, JavaScript, and JSON data. The API allows users to retrieve a list of recipes, view recipe details, and search for recipes based on ingredients.
 
